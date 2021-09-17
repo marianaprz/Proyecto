@@ -1,1 +1,2 @@
-write-host ("hola")
+write-host ("hola a todos")
+write-host("Adios")
